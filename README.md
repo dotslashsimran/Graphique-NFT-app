@@ -1,1 +1,1 @@
-# Graphique-NFT-app
+# Graphique NFT App
